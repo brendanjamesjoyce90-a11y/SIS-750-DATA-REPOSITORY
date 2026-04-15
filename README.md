@@ -27,4 +27,18 @@ Go to settings (every repo has settings)
 Down left hand side, `pages`
 then go `branch` = `main` then save
 
+## HTML file doesnt have those ____ (idk what) embedded
+its one of these reasons why HTML doesn't look the same and #NONE OF YOUR VISUALS WILL BE GONE
+
+## This is all one way to interact with Github... but there's more options
+
+## What if you want to do a bulk download?
+click on blue code button, click `download zip`
+
+## Fork
+Copying and pasting your version from repo into MY version
+This is common if you want to build a proper website or hosting a book, the first step is to fork it
+# To Fork
+Find something to fork
+Find a repository and then click "fork"
 
