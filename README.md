@@ -12,3 +12,5 @@ geom_point()
 ## Second Level Header
 note: 'commit" is like 'save'; ('push' also acts similarly)
 and then you have to add a commit message (especially important for collaborations, ie- "fixed these bugs")
+
+# consider these short & sweet introductions...
