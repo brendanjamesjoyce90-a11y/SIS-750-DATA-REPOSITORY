@@ -14,3 +14,11 @@ note: 'commit" is like 'save'; ('push' also acts similarly)
 and then you have to add a commit message (especially important for collaborations, ie- "fixed these bugs")
 
 # consider these short & sweet introductions...
+
+## How can you upload files?
+If you're only using website, and you want to add files, go to add files, upload files (choose or drag n drop)
+You will also have to commit changes to any uploads.
+Same deal, people can view it
+
+Trick for reading an HTML (similar to README.md as a landing page)
+index.html is also a privelaged name 
