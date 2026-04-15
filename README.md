@@ -19,11 +19,12 @@ and then you have to add a commit message (especially important for collaboratio
 If you're only using website, and you want to add files, go to add files, upload files (choose or drag n drop)
 Trick for reading an HTML (similar to README.md as a landing page)
 index.html is also a privelaged name 
+You will also have to commit changes to any uploads.
+Same deal, people can view it
 
 ## Sequence to host an HTML
 Go to settings (every repo has settings)
 Down left hand side, `pages`
-You will also have to commit changes to any uploads.
-Same deal, people can view it
+then go `branch` = `main` then save
 
 
